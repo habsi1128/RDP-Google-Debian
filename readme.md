@@ -10,11 +10,6 @@
 ! ./RDP.sh
 ```
 
-# Change to xfce4-terminal
-```shell
-! sudo update-alternatives --config x-terminal-emulator
-```
-
 # Fake script for afk
 ```py
 import time
