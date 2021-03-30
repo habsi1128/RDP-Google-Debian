@@ -1,5 +1,5 @@
 # Root password
-```
+```py
 6969
 ```
 
