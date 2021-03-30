@@ -20,6 +20,7 @@ sudo apt install --assume-yes --fix-broken
 sudo apt install nautilus nano -y
 sudo apt install font-manager
 sudo apt-get install xfce4-terminal
+sudo update-alternatives --config x-terminal-emulator
 sudo adduser NEKO chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Complete " >&2 ||
