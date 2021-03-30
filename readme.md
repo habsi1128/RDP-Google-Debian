@@ -17,7 +17,7 @@
 ```
 
 # Fake script for afk
-```
+```py
 import time
 
 i = 0
