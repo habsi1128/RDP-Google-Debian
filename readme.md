@@ -10,6 +10,13 @@
 ! ./RDP.sh
 ```
 
+# Install list
+```
+- font-manager
+- xfce4-terminal
+- qbittorrent-nox_x86_64-linux-musl_static
+```
+
 # Fake script for afk
 ```py
 import time
