@@ -14,7 +14,7 @@
 ```
 - font-manager
 - xfce4-terminal
-- qbittorrent-nox_x86_64-linux-musl_static
+- qbittorrent-nox_x86_64-linux-musl_static (qBittorrent Enhanced Edition v4.3.4.11)
 ```
 
 # Fake script for afk
