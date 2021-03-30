@@ -10,3 +10,8 @@
 ! sudo apt-get install xfce4-terminal
 ! sudo update-alternatives --config x-terminal-emulator
 ```
+
+# ROOT Password
+```
+6969
+```

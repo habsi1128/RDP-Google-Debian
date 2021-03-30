@@ -3,7 +3,7 @@ printf "Installing RDP... " >&2
 {
 sudo useradd -m NEKO
 sudo adduser NEKO sudo
-echo 'NEKO:8426' | sudo chpasswd
+echo 'NEKO:6969' | sudo chpasswd
 sed -i 's/\/bin\/sh/\/bin\/bash/g' /etc/passwd
 sudo apt-get update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
