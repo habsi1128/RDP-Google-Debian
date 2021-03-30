@@ -8,21 +8,13 @@
 ! wget https://raw.githubusercontent.com/NekoChanTaiwan/RDP-Google-Debian/main/RDP.sh
 ! chmod +x RDP.sh
 ! ./RDP.sh
+
+print('Starting AFK...')
+while True:pass
 ```
 
 # Install list
 ```
 - font-manager
 - xfce4-terminal
-```
-
-# Fake script for afk
-```py
-import time
-
-i = 0
-while True:
-  print(i)
-  time.sleep(10)
-  i += 1
 ```
