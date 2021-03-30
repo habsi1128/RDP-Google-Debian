@@ -9,8 +9,10 @@
 ! chmod +x RDP.sh
 ! ./RDP.sh
 
+import time
 print('Starting AFK...')
-while True:pass
+while True:
+  time.sleep(1)
 ```
 
 # Install list
