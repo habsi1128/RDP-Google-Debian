@@ -27,6 +27,7 @@ curl -LJO https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases/downl
 unzip /home/NEKO/Desktop/qbittorrent-nox_x86_64-linux-musl_static.zip
 chmod u+x /home/NEKO/Desktop/qbittorrent-nox
 /home/NEKO/Desktop/qbittorrent-nox --webui-port=6969
+echo './qbittorrent-nox --webui-port=6969' > /home/NEKO/Desktop/qb_start.sh
 sudo adduser NEKO chrome-remote-desktop
 } &> /dev/null &&
 printf "\nSetup Complete " >&2 ||
